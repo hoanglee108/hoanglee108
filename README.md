@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Computer Vision & AI Engineering]**
 - 🌱 I’m currently learning **[Python, C#, HTML, CSS]**
-- 📫 How to reach me: **[mailto:lmhoang1008@gmail.com]**
+- 📫 How to reach me: **[(mailto:lmhoang1008@gmail.com)]**
 
 ## 🚀 Tech Stack
 
